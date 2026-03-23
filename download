@@ -1,0 +1,9 @@
+.env
+dev.env
+node_modules/
+dist/
+package-lock.json
+.vscode/
+generated/
+logs/
+/src/generated/prisma
